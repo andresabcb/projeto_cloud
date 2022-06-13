@@ -27,7 +27,7 @@ ansible-playbook playbook.yml -f 10
 Para deletar o deployment e o serviço criados:
 
 ```console
-ansible-playbook deletepods.yml -f 10
+ansible-playbook deletedeploy.yml -f 10
 ```
 
 ### Comandos úteis
