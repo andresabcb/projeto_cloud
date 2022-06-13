@@ -37,3 +37,9 @@ Para conferir o que foi criado com o kubectl:
 ```console
 kubectl get all
 ```
+
+Para apagar algo que foi criado com o kubectl:
+
+```console
+kubectl delete <tipo_do_objeto/nome>
+```
