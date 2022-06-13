@@ -29,3 +29,11 @@ Para deletar o deployment e o serviço criados:
 ```console
 ansible-playbook deletepods.yml -f 10
 ```
+
+### Comandos úteis
+
+Para conferir o que foi criado com o kubectl:
+
+```console
+kubectl get all
+```
