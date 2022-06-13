@@ -1,5 +1,9 @@
 # Projeto Cloud - ABC Place
 
+### Link do vídeo
+
+https://alinsperedu.sharepoint.com/sites/Desa-Gravaodetrabalhos-GravaoDesa/Shared%20Documents/Recordings/New%20channel%20meeting-20220613_183828-Meeting%20Recording.mp4?web=1
+
 ### Terraform - Infraestrutura
 
 Para aplicar os módulos eks e vpc:
