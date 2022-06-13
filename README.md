@@ -4,6 +4,9 @@
 
 https://alinsperedu.sharepoint.com/sites/Desa-Gravaodetrabalhos-GravaoDesa/Shared%20Documents/Recordings/New%20channel%20meeting-20220613_183828-Meeting%20Recording.mp4?web=1
 
+- Esqueci de avisar que usei o Projeto de Megadados como o app pedido
+- Mas acredito que atingi o conceito C apenas
+
 ### Terraform - Infraestrutura
 
 Para aplicar os módulos eks e vpc:
